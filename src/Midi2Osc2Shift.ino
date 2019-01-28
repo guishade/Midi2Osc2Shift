@@ -6,7 +6,6 @@
 */
 
 #include <ShiftRegister74HC595.h>
-int variable = 4
 
 
 // create a global shift register object
